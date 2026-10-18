@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Los Lokis//Invitacion de boda//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:estrella-matias-20270220@bodalokis.com
+DTSTAMP:20261017T120000Z
+SEQUENCE:1
+DTSTART:20270220T193000Z
+DTEND:20270221T110000Z
+SUMMARY:Boda de Estrella y Matías
+LOCATION:Jardín Brenna\, P.º de Las Fuentes 46\, Jiutepec\, Morelos
+DESCRIPTION:Ceremonia a las 13:30 (hora de Morelos).\nBaile desde las 18:00
+  hasta las 05:00 de la madrugada siguiente.\nCómo llegar: https://maps.ap
+ p.goo.gl/kKjqYR6MphMfYQTXA\nInvitación: https://bodalokis.com/
+URL:https://bodalokis.com/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
